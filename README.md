@@ -1,7 +1,7 @@
 KalmanFilter-for-Arduino
 ========================
 
-Simple one varable Kalman filter library for Arduino
+Simple one variable Kalman filter library for Arduino
 
 Install:
 --------
